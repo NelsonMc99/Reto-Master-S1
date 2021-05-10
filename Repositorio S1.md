@@ -54,5 +54,7 @@ El almacenamineto de datos en la nube permite a los departamentos de TI transfor
 
 *Nube Híbrida:* Este entorno informático combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
 
+![nube](https://user-images.githubusercontent.com/83924574/117596220-7d00ef00-b108-11eb-84a4-5d886cac0000.png)
+
 ## Referencias
 Amazon Web Service. (2021). ¿Qué es el almacenamiento en la nube?. 2021, de Amazon Web Services, Inc. o sus empresas afiliadas. Sitio web: https://aws.amazon.com/es/what-is-cloud-storage/
