@@ -1,6 +1,6 @@
 # RETO MASTER S1 | Conceptos basicos de la nube
 
-![nube](https://storage.googleapis.com/icemdweb-wp-uploads/2018/03/896be30b-cloud-computing-que-es-.jpg)
+<center><img src="https://storage.googleapis.com/icemdweb-wp-uploads/2018/03/896be30b-cloud-computing-que-es-.jpg" alt="Nube" height="333" width="500"></center>
 
 ## ¿Que es la nube?
 
