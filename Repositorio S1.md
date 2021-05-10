@@ -22,5 +22,37 @@ El almacenamineto de datos en la nube permite a los departamentos de TI transfor
 
 3.Gestión de la información. Centralizar el almacenamiento en la nube aporta un gran beneficio para nuevos casos de uso.
 
+## Conceptos de la nube
+
+*Confiabilidad:*en función del contrato de nivel de servicio que elija, las aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua sin tiempo de inactividad perceptible aunque se produzcan errores.
+
+*Escalabilidad Verticalmente:* la capacidad informática se puede aumentar si se agrega RAM o CPU adicionales a una máquina virtual.
+
+*Estabilidad Horizontal:* la capacidad informática se puede aumentar si se agregan instancias de un recurso, como máquinas virtuales adicionales a la configuración.
+
+*Elasticidad:* las aplicaciones basadas en la nube se pueden configurar para que siempre tengan los recursos que necesitan.
+
+*Agilidad:* los recursos basados en la nube se pueden implementar y configurar rápidamente a medida que cambian los requisitos de la aplicación.
+
+*Distribución geográfica:* las aplicaciones y los datos se pueden implementar en centros de datos regionales de todo el mundo, lo que garantiza que los clientes siempre tendrán el mejor rendimiento de su región.
+
+*Recuperación ante desastres:* al usar los servicios de copia de seguridad basados en la nube, la replicación de datos y la distribución geográfica, podrá implementar las aplicaciones con la seguridad de saber que los datos están protegidos en caso de que se produzca un desastre.(Ejemplo los terremotos en una zona)
+
+## Modelos de Servicios de la nube
+
+*Infraestructura como servicio (IaaS):* Este modelo de servicio en la nube es el más parecido a la administración de servidores físicos. (Analogia: Casa en obra negra)
+
+*Plataforma como servicio (PaaS):* Este modelo de servicio en la nube es un entorno de hospedaje administrado.(Analogia: casa pintada pero sin amueblar)
+
+*Software como servicio (SaaS):* En este modelo de servicio en la nube, el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones.(Analogia: casa pintada y amueblada)
+
+## Tipos de Nubes
+
+*Nube Publica:* Los servicios se ofrecen a través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos. Los recursos de nube como los servidores y el almacenamiento son propiedad de un proveedor de servicios en la nube de terceros, que los explota y distribuye a través de Internet.
+
+*Nube Privada:* Los recursos informáticos son de uso exclusivo de los usuarios de una empresa u organización. Una nube privada puede estar ubicada físicamente en el centro de datos local de la organización. También la puede hospedar un proveedor de servicios de terceros.
+
+*Nube Híbrida:* Este entorno informático combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
+
 ## Referencias
 Amazon Web Service. (2021). ¿Qué es el almacenamiento en la nube?. 2021, de Amazon Web Services, Inc. o sus empresas afiliadas. Sitio web: https://aws.amazon.com/es/what-is-cloud-storage/
